@@ -1,6 +1,13 @@
 body {
     background: #FFa;
     font-size: 30px;
+
 }
 
-body { background: rgb(211, 195, 255) }
+body { background: rgb(211, 195, 255)
+}
+
+img{
+    width: 500px;
+    height: 500px;
+}
