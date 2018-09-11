@@ -1,13 +1,13 @@
-body {
-    background: #FFa;
+body { 
+    background: rgb(211, 195, 255);
     font-size: 30px;
-
-}
-
-body { background: rgb(211, 195, 255)
 }
 
 img{
     width: 200px;
     height: 200px;
+}
+
+div {
+    background: #CCC;
 }
