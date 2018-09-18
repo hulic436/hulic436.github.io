@@ -5,11 +5,11 @@ body {
 }
 
 .column{
-    background: rgb(248, 230, 64)
-    font size: 14px;
+    background: rgb(248, 230, 64) 
     width: 130px;
     margin: 0px, 15px, 0px, 15px;
     display: inline-block
+    font-size: 14px;
 }
 
 .wrapper{
