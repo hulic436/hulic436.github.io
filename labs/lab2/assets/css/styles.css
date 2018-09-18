@@ -4,28 +4,35 @@ body {
     font-size: 0px;
 }
 
-.column-1{
+.column{
     background: rgb(248, 230, 64); 
-    width: 130px;
     margin: 0px, 15px, 100px, 15px;
     display: inline-block;
     font-size: 14px;
+}
+
+.column-1{
+    width: 130px;
 }
 
 .column-2{
-    background: rgb(248, 230, 64); 
     width: 290px;
-    margin: 0px, 15px, 100px, 15px;
-    display: inline-block;
-    font-size: 14px;
 }
 
 .column-3{
-    background: rgb(248, 230, 64); 
     width: 450px;
-    margin: 0px, 15px, 100px, 15px;
-    display: inline-block;
-    font-size: 14px;
+}
+
+.column-4{
+    width: 610px;
+}
+
+.column-5{
+    width: 7700px;
+}
+
+.column-6{
+    width: 938px;
 }
 
 .wrapper{
