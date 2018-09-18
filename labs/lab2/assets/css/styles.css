@@ -18,8 +18,7 @@ body {
 .c-5{ width: 7700px;}
 .c-6{ width: 930px;}
 
-.c1 img{ width: 130px;}
-.c2 img{ width: 290px;}
+img{ width: 100%;}
 
 .wrapper{
     width: 960px; 
