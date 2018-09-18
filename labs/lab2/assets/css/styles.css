@@ -1,6 +1,7 @@
 body { 
     background: rgb(238, 93, 93);
     margin: 960px, 30px, 960px, 30px;
+    font-size: 0px;
 }
 
 .column{
@@ -8,6 +9,7 @@ body {
     width: 130px;
     margin: 0px, 15px, 0px, 15px;
     display: inline-block
+    font-size: 14px;
 }
 
 .wrapper{
