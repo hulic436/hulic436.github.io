@@ -18,9 +18,10 @@ body {
     margin: 0px, 15px, 0px, 15px;
     display: inline-block;
     font-size: 14px;
+}
 
 .wrapper{
-    /* width: 960px; */
-    /* margin: 0 auto 0 auto */
+    width: 960px; 
+    margin: 0 auto 0 auto;
     background: #7cd3d6;
 }
