@@ -11,12 +11,14 @@ body {
     font-size: 14px;
 }
 
-.c-1{width: 130px;}
-.c-2{width: 290px;}
-.c-3{width: 450px;}
-.c-4{width: 610px;}
-.c-5{width: 7700px;}
-.c-6{width: 93-px;}
+.c-1{ width: 130px;}
+.c-2{ width: 290px;}
+.c-3{ width: 450px;}
+.c-4{ width: 610px;}
+.c-5{ width: 7700px;}
+.c-6{ width: 93px;}
+
+img{ width: 130px;}
 
 .wrapper{
     width: 960px; 
