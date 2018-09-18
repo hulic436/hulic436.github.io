@@ -3,15 +3,15 @@ body {
     margin: 960px, 30px, 960px, 30px;
 }
 
-column{
+.column{
     background: rgb(248, 230, 64)
     width: 130px;
     margin: 0px;
-    font size: 30px;
 }
 
 .wrapper{
     /* width: 960px; */
     /* margin: 0 auto 0 auto */
     background: #7cd3d6;
+    font-size: 30px;
 }
