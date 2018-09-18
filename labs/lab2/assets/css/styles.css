@@ -1,0 +1,26 @@
+body { 
+    background: rgb(211, 195, 255);
+    font-size: 30px;
+}
+
+.small{
+    width: 200px;
+    height: 200px;
+}
+
+.medium {
+    width: 300px;
+    height: 300px;
+}
+
+div {
+    background: #CCC;
+}
+.header {
+    background: rgb(92, 153, 128)ccc;
+
+}
+
+.content {
+    background: rgb(211, 195, 255);
+}
