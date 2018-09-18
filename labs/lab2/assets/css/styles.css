@@ -4,13 +4,20 @@ body {
     font-size: 0px;
 }
 
-.column{
-    background: rgb(248, 230, 64) 
+.column-1{
+    background: rgb(248, 230, 64); 
     width: 130px;
     margin: 0px, 15px, 0px, 15px;
-    display: inline-block
+    display: inline-block;
     font-size: 14px;
 }
+
+.column-2{
+    background: rgb(248, 230, 64); 
+    width: 290px;
+    margin: 0px, 15px, 0px, 15px;
+    display: inline-block;
+    font-size: 14px;
 
 .wrapper{
     /* width: 960px; */
