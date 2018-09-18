@@ -16,9 +16,10 @@ body {
 .c-3{ width: 450px;}
 .c-4{ width: 610px;}
 .c-5{ width: 7700px;}
-.c-6{ width: 93px;}
+.c-6{ width: 930px;}
 
-img{ width: 130px;}
+.c1 img{ width: 130px;}
+.c2 img{ width: 290px;}
 
 .wrapper{
     width: 960px; 
