@@ -5,6 +5,8 @@ body {
 
 column{
     background: rgb(248, 230, 64)
+    width: 130px;
+    margin: 0px;
 }
 
 .wrapper{
