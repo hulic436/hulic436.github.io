@@ -9,14 +9,14 @@ body {
     width: 768px;
     height: 768px;
     background: #f8e71c;
-    
+    margin: auto;
 }
 
 .blue {
     width: 568px;
     height: 568px;
     background: #202665;
-    padding: 0 0 auto 0,
+    padding: 0 0 auto 0;
 
     
 }
