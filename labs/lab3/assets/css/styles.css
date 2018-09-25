@@ -4,6 +4,7 @@ body {
     margin: 0;
     font-size: 50px;
     font-family: 'Gloria Hallelujah', cursive;
+    
 }
 
 .square {
@@ -33,6 +34,21 @@ body {
     position: fixed;
     top: 0px;
     right: 0px;
+}
+
+.byline {
+    background: #fff;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 26px;
+
+}
+
+.avatar {
+    width: 100px;
+    height: 100px;
+    background: rgb(255, 187, 187)
+    border-radius: 100%;
 }
 
 /* positionning */
