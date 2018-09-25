@@ -1,29 +1,5 @@
 * {box-sizing: border-box; }
 
 body { 
-    background: rgb(238, 93, 93);
-    margin: 0px;
-    font-size: 0px;
-}
-
-.c{
-    background: rgb(248, 230, 64); 
-    margin: 0px, 15px, 100px, 15px;
-    display: inline-block;
-    font-size: 14px;
-}
-
-.c-1{ width: 130px;}
-.c-2{ width: 290px;}
-.c-3{ width: 450px;}
-.c-4{ width: 610px;}
-.c-5{ width: 7700px;}
-.c-6{ width: 930px;}
-
-img{ width: 100%;}
-
-.wrapper{
-    width: 960px; 
-    margin: 0 auto 0 auto;
-    background: #7cd3d6;
+    background: rgb(247, 227, 114);
 }
