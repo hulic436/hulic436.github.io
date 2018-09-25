@@ -2,9 +2,8 @@
 body { 
     background: rgb(247, 227, 114);
     margin: 0;
-    font-size: 100px;
+    font-size: 50px;
     font-family: 'Gloria Hallelujah', cursive;
-    text-align: center;
 }
 
 .square {
@@ -23,9 +22,18 @@ body {
 .rel {
     position: relative;
     top: -10px;
+    left: 100 px;
 }
-.abs {position: absolute;}
-.fix {position: fixed;}
+.abs {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.fix {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+}
 
 /* positionning */
 /* static */
