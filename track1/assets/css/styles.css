@@ -18,6 +18,7 @@ body {
 
 .section {
     margin: auto, -200px;
+    box-align: right; 
     color: #ffffff
 }
 
