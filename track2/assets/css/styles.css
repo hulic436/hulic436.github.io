@@ -7,3 +7,10 @@ body {
     background: #ffffff00;
 }
 
+.blue {
+    float: right;
+}
+
+.grey {
+    float: left;
+}
