@@ -9,7 +9,6 @@ body {
 
 
     .blue {
-        visibility: hidden;
         float: right,
     }
 
@@ -25,7 +24,6 @@ body {
 
     .grey {
         float: left;
-        visibility: hidden;
     }
 
     .fadeIn {
