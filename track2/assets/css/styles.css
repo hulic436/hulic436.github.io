@@ -14,7 +14,7 @@ body {
     float: right;
 }
 
-.top {
-    float: center;
-    width: 1024px;
+.responsive {
+    width: 100%;
+    height: auto;
 }
