@@ -1,0 +1,9 @@
+body { 
+    background-image: linear-gradient(#ffffff, #54a1f2);
+}
+
+.square {
+    height:400px;
+    background: #ffffff00;
+}
+
