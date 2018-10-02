@@ -14,8 +14,6 @@ body {
 .grey {
     float: left;
 }
-
-<style>
     .blue {
         visibility: hidden;
     }
@@ -28,18 +26,14 @@ body {
 
     @-webkit-keyframes animat_show{
         0%{opacity:0}
-        100%{opacity:1}
-    }
-</style>
-
-<style>
+        100%{opacity:1}}
     .grey {
         visibility: hidden;
     }
 
     .fadeIn {
-        -webkit-animation: animat_show 0.8s;
-        animation: animat_show 0.8s;
+        -webkit-animation: animat_show 2s;
+        animation: animat_show 2s;
         visibility: visible !important;
     }
 
@@ -47,4 +41,3 @@ body {
         0%{opacity:0}
         100%{opacity:1}
     }
-</style>
