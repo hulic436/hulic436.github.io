@@ -7,33 +7,30 @@ body {
     background: #ffffff00;
 }
 
-.blue {
-    float: right;
-}
 
-.grey {
-    float: left;
-}
     .blue {
         visibility: hidden;
+        float: right,
     }
 
     .fadeIn {
-        -webkit-animation: animat_show 2s;
-        animation: animat_show 2s;
+        -webkit-animation: animat_show 1s;
+        animation: animat_show 1s;
         visibility: visible !important;
     }
 
     @-webkit-keyframes animat_show{
         0%{opacity:0}
         100%{opacity:1}}
+
     .grey {
+        float: left;
         visibility: hidden;
     }
 
     .fadeIn {
-        -webkit-animation: animat_show 2s;
-        animation: animat_show 2s;
+        -webkit-animation: animat_show 1s;
+        animation: animat_show 1s;
         visibility: visible !important;
     }
 
