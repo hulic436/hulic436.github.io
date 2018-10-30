@@ -15,13 +15,30 @@
 
   <body>
       <div class="wrapper">
-          <div class="column">
+          <div class="column nav">
             Navigation
+              <ul>
+                  <li class="nav-item" data-button="green">Green</li>
+                  <li class="nav-item" data-button="red">Red</li>
+                  <li class="nav-item" data-button="blue">Blue</li>
+                  <li class="nav-item" data-button="sol-lewitt">Sol Lewitt</li>
+                  <li class="nav-item" data-button="beyonce">Beyonce</li>
+                  <li class="nav-item" data-button="about">about</li>
+              </ul>
           </div>
-          <div class="column">
+          <div class="column content">
             Content
           </div>
+
+        <div class="slay hide">
+          <div class='close'>&times;</div>
+          <div class='message'>Slay</div>
+          <audio class="hide" controls loop>
+            <source src="assets/img/formation.m4a">
+          </audio>
+        </div>
       </div>
+
       <script src="assets/js/app.js"></script>
   </body>
 </html>

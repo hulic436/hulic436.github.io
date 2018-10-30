@@ -1,25 +1,18 @@
-var name        = "Brian",
-    age         = 33,
-    can_drive   = true;
+$('.nav-item').click(function(){
+   var button_name = $(this).data('button');
 
-var dresser = [['socks', 25], 'shirts', 'pants', 'old stuff'];
+   if (button_name == 'beyonce'){
+    $('.slay').removeClass('hide');
+    $('.audio')[0].play();
 
-// function
+ } else {
+   $('.nav-item').removeClass('active');
+   $('.content').attr('class', 'column content');
+   $(this).addClass('active');
+   $('.content').addClass(button_name);
+});
 
-function hello_world(){
-    alert('hello world');
-}
-
-hello_world();
-
-function hello_world(){
-    alert('hello world');
-}
-
-hello_world();
-
-function hello_world(){
-    alert('hello world');
-}
-
-hello_world();
+$('.close').click(function(){
+    $('.slay').addClass('hide');
+    $('.audio')[0].pause();
+});
