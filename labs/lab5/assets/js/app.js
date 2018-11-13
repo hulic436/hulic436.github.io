@@ -9,8 +9,8 @@ $('.nav-item').click(function(){
 
    if (button_name == 'beyonce'){
     $('.slay').removeClass('hide');
-    $('.audio')[0].play();
-   }else if (button-name == 'about'){
+    $('audio')[0].play();
+   }else if (button_name == 'about'){
    $('.about-text').removeClass('hide');
    }
 });  
