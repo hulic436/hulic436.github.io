@@ -1,7 +1,6 @@
 $('.nav-item').click(function(){
     var button_name = $(this).data('button');
  
-    $('.about-text').addClass('hide');
     $('.nav-item').removeClass('active');
     $('.content').attr('class', 'column content');
     $(this).addClass('active');
