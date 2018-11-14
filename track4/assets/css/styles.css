@@ -1,0 +1,17 @@
+body { 
+    background: #1c2938;
+}
+
+.square {
+    height:20px;
+    background: #1c2938;
+}
+
+
+.responsive {
+    width: 100%;
+    height: auto;
+    max-width: 1500px;
+    float: center;
+
+}
