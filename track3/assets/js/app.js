@@ -6,16 +6,24 @@ $('.nav-item').click(function(){
     $(this).addClass('active');
     $('.content').addClass(button_name);
  
-    if (button_name == 'beyonce'){
-     $('.slay').removeClass('hide');
+    if (button_name == 'happy'){
+     $('.happy').removeClass('hide');
      $('audio')[0].play();
-    }else if (button_name == 'about'){
-    $('.about-text').removeClass('hide');
-    }
- });  
+ }  
  
  $('.close').click(function(){
-     $('.slay').addClass('hide');
+     $('.happy').addClass('hide');
      $('audio')[0].pause();
      $('.nav-item').removeClass('active');
- });
+
+     if (button_name == 'hopeless'){
+        $('.hopeless').removeClass('hide');
+        $('audio')[0].play();
+    }  
+    
+    $('.close').click(function(){
+        $('.hopeless').addClass('hide');
+        $('audio')[0].pause();
+        $('.nav-item').removeClass('active');
+    }
+)})})

@@ -1,0 +1,10 @@
+body {
+background: #873e83;
+}
+
+.center {
+    display: block;
+    margin-left: 700px;
+    float: center;
+    align-items: center;
+}

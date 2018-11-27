@@ -1,5 +1,6 @@
 body { 
     background: #1c2938;
+    float: center;
 }
 
 .square {
@@ -17,5 +18,8 @@ body {
 }
 
 .meme{
-    position: 
+    width: 100%;
+    height: auto;
+    max-width: 1500px;
+    float: center;
 }
