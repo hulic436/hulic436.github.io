@@ -9,21 +9,21 @@ $('.nav-item').click(function(){
     if (button_name == 'happy'){
      $('.happy').removeClass('hide');
      $('audio')[0].play();
- }  
+ }
  
  $('.close').click(function(){
      $('.happy').addClass('hide');
      $('audio')[0].pause();
      $('.nav-item').removeClass('active');
+ })})
 
-     if (button_name == 'hopeless'){
-        $('.hopeless').removeClass('hide');
-        $('audio')[0].play();
-    }  
-    
-    $('.close').click(function(){
-        $('.hopeless').addClass('hide');
-        $('audio')[0].pause();
-        $('.nav-item').removeClass('active');
-    }
-)})})
+ if (button_name == 'hopeless'){
+    $('.hopeless').removeClass('hide');
+    $('audio')[0].play();
+}
+
+$('.close').click(function(){
+    $('.hopeless').addClass('hide');
+    $('audio')[0].pause();
+    $('.nav-item').removeClass('active');
+})

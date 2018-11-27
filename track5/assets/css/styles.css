@@ -1,10 +1,6 @@
 body {
 background: #873e83;
-}
-
-.center {
-    display: block;
-    margin-left: 700px;
-    float: center;
-    align-items: center;
+display: block;
+margin: auto;
+align-items: center;
 }
