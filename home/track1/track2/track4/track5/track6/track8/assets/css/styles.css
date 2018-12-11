@@ -1,0 +1,27 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+    height: 40%;
+ }
+
+.happy {background: #feffb0;}
+.hopeless {background: #2a1658;}
+.anger {background: #d33f25;}
+.in-love {background: #ffa2be;}
+.wistful {background: #abc9c5;}
+.powerful {background: #b64558;}
+.rebellious {background: #c70b63;}
+.contemplative {background: #3b5a6e;}
+.at-peace {background: #9a9ec0;}
+.nostalgic {background: #ddba70;}
+.pained {background: #1e1935;}
+.lost {background: #25262e;}
+.alive {background: #49a555;}
+.grounded {background: #083519;}
+.grateful {background: #ddb73b;}
+.wonder {background: #de8b9f;}
+.loved {background: #ec9cad;}
+
+audio { display: none; }
