@@ -1,0 +1,29 @@
+body {
+background: #873e83;
+}
+
+.center {
+    background: #873e83;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 800px;
+}
+
+.grey {
+    background: #525252;
+}
+
+.submit {
+    margin-left: 185px;
+    margin-top: 193px;
+    height: 100px;
+    width:100px;
+}
+
+.square {
+    height: 50px;
+    color: transparent; 
+    background-color: transparent; 
+    border: none;
+}
