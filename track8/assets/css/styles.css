@@ -21,5 +21,7 @@
 .alive {background: #49a555;}
 .grounded {background: #083519;}
 .grateful {background: #ddb73b;}
-.wonder {background: #fdc7b5;}
-.loved {background: #df8a9d;}
+.wonder {background: #de8b9f;}
+.loved {background: #ec9cad;}
+
+audio { display: none; }
