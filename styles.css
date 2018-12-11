@@ -1,11 +1,17 @@
-body {
-background: #873e83;
+body { 
+    background: #525151;
+    font-family:'Arapey', serif;
+    font-size: 100px;
 }
 
 .center {
-    background: #873e83;
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-top: 70px;
+}
+
+.top{
+    margin: left;
+    color: #f9f0b3;
 }

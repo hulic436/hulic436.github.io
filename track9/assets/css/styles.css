@@ -1,5 +1,5 @@
 body { 
-    background-image: linear-gradient(#ffffff, rgb(245, 206, 188), #e26b74);
+    background: #525151;
     font-family:'Arapey', serif;
     font-size: 100px;
 }
@@ -13,17 +13,5 @@ body {
 
 .top{
     margin: left;
-    color: #e26b74;
-}
-
-.section {
-    margin: auto, -200px;
-    text-align: right;
-    color: #ffffff
-}
-
-.square {
-    width: 1000px;
-    height: 2000px;
-    background: #ffffff00;
+    color: #f9f0b3;
 }
